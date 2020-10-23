@@ -1,0 +1,4 @@
+{
+  "ssm:account=810799446236:parameterName=/automatic-aws-db-shutdown-cdk-new/github/repo:region=eu-west-1": "automatic-aws-db-shutdown-cdk-new",
+  "ssm:account=810799446236:parameterName=/automatic-aws-db-shutdown-cdk-new/github/owner:region=eu-west-1": "mrvindu"
+}
